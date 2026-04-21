@@ -11,3 +11,4 @@ ecommerce_backend/.env
 
 # Node modules (if frontend exists)
 node_modules/
+frontend/node_modules/
