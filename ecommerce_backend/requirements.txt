@@ -10,3 +10,6 @@ email-validator
 fastapi-mail
 reportlab
 python-multipart
+stripe
+pymysql
+cryptography
